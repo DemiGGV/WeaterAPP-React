@@ -10,5 +10,5 @@ export default defineConfig({
       components: '/src/components',
     },
   },
-  base: '/weaterapp-react/',
+  base: '/WeaterAPP-React/',
 });
