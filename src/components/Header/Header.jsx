@@ -4,7 +4,7 @@ import {
   StyledLink,
   IconWrapper,
 } from './Header.styled';
-import sprite from '../../assets/sprite.svg';
+import sprite from '../../assets/icons/sprite.svg';
 
 export const Header = () => {
   return (
