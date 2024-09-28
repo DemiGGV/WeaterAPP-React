@@ -184,4 +184,4 @@ Error generating stack: `+o.message+`
   background-image: url(${Vp});
   background-repeat: no-repeat;
   background-position: center bottom;
-`,Fv="";function Uv(){return console.log(Fv),z.jsx(Dv,{children:z.jsx(im,{children:z.jsxs(wn,{path:"/",element:z.jsx(Cg,{}),children:[z.jsx(wn,{path:"/first",element:z.jsx(Rv,{})}),z.jsx(wn,{path:"/second",element:z.jsx(Lv,{}),children:z.jsx(wn,{path:":half",element:z.jsx(Iv,{})})}),z.jsx(wn,{path:"*",element:z.jsx(Mv,{})})]})})})}Bl.createRoot(document.getElementById("root")).render(z.jsx(sn.StrictMode,{children:z.jsx(cm,{basename:"/react_vite",children:z.jsx(Uv,{})})}));
+`,Fv="";function Uv(){return console.log(Fv),z.jsx(Dv,{children:z.jsx(im,{children:z.jsxs(wn,{path:"/",element:z.jsx(Cg,{}),children:[z.jsx(wn,{path:"/first",element:z.jsx(Rv,{})}),z.jsx(wn,{path:"/second",element:z.jsx(Lv,{}),children:z.jsx(wn,{path:":half",element:z.jsx(Iv,{})})}),z.jsx(wn,{path:"*",element:z.jsx(Mv,{})})]})})})}Bl.createRoot(document.getElementById("root")).render(z.jsx(sn.StrictMode,{children:z.jsx(cm,{basename:"/WeatherAPP-React",children:z.jsx(Uv,{})})}));
