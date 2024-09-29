@@ -10,15 +10,15 @@ export const Header = () => {
   return (
     <HeaderContainer>
       <Navigation>
-        <StyledLink to="/first">
+        <StyledLink to="/">
           <IconWrapper>
-            <use href={`${sprite}#icon-logo`} />
+            <use href={`${sprite}#magnifying-glass`} />
           </IconWrapper>
           First
         </StyledLink>
         <StyledLink to="/second">
           <IconWrapper>
-            <use href={`${sprite}#icon-logo`} />
+            <use href={`${sprite}#magnifying-glass`} />
           </IconWrapper>
           Second
         </StyledLink>
